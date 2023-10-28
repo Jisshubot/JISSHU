@@ -5,7 +5,7 @@
   <b> 𝗝𝗜𝗦𝗦𝗛𝗨-𝗕𝗢𝗧</b>
 </h1>
 
- [![BOT-SUPPORT](https://img.shields.io/static/v1?label=𝗝𝗜𝗦𝗦𝗛𝗨&message=𝗕𝗢𝗧&color=critical)](https://t.me/JISSHU_BOTS)
+ [![BOT-SUPPORT](https://img.shields.io/static/v1?label=BOT&message=SUPPORT&color=critical)](https://t.me/JISSHU_BOTS)
 
 ## Features
 
