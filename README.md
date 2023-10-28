@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗝𝗜𝗦𝗦𝗛𝗨-𝗕𝗢𝗧!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗝𝗜𝗦𝗦𝗛𝗨-𝗕𝗢𝗧™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
-<p align="center">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+𝗝𝗜𝗦𝗦𝗛𝗨-𝗕𝗢𝗧!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗝𝗜𝗦𝗦𝗛𝗨-𝗕𝗢𝗧™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)<p align="center">
+  <img src="https://graph.org/file/9456b1e97fb6c1e403792.jpg" alt="ROSE BUCKET Logo">
 
 <h1 align="center">
   <b> 𝗝𝗜𝗦𝗦𝗛𝗨-𝗕𝗢𝗧</b>
