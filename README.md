@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/9456b1e97fb6c1e403792.jpg" alt="ROSE BUCKET Logo">
 
 <h1 align="center">
-  <b> 𝗝𝗜𝗦𝗦𝗛𝗨-𝗕𝗢𝗧</b>
+    <b> 𝗝𝗜𝗦𝗦𝗛𝗨-𝗕𝗢𝗧</b>
 </h1>
 
  [![BOT-SUPPORT](https://img.shields.io/static/v1?label=BOT&message=SUPPORT&color=critical)](https://t.me/JISSHU_BOTS)
