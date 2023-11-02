@@ -62,7 +62,18 @@
 * `SHORT_URL` : Url Of Shortner Site You Use
 * `SHORT_API` : Api Key Of Shortner Which You Use
 
+### Deploy to Rander
 
+<details><summary>Deploy To Rander</summary>
+<br>
+<p><a href="https://youtu.be">
+    Watch Deploying Tutorial...
+</a></p>
+
+<p><a href="https://render.com/deploy?repo=https://github.com/Jisshubot/JISSHU">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy">
+</a></p>
+</details>
 ## Deploy to Heroku
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
